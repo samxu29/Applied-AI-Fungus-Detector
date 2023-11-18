@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+models/
+*.gguf
+
+dataset/
+
 # C extensions
 *.so
 
@@ -25,9 +30,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
-# models/
-*.gguf
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
