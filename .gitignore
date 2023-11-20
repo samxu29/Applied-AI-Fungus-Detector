@@ -7,6 +7,10 @@ models/
 *.gguf
 
 dataset/
+demo_weight/
+*.pth
+*.ptl
+*.pt
 
 # C extensions
 *.so
